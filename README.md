@@ -1,6 +1,6 @@
 # Amax Autosurg V3.60
                         
-⚡ Works in Growtopia V4.58 ⚡                                     
+⚡ Works in Growtopia V4.59 ⚡                                     
 
 ### How to Download and Install
             
@@ -31,5 +31,5 @@ step 6️⃣ --> Your surgery will automatically complete!
                                     
 Enjoy effortless surgeries!
 
-// 11.6.2024                                
+// 18.6.2024                                
 ⚡ Updated for Growtopia V4.58 ⚡
